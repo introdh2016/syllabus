@@ -194,7 +194,6 @@ Part 2: Text Analysis
     - ["What is TEI?"] (http://cdrh.unl.edu/articles/basicguide/TEI)
 
 
-
 -   2016-10-06: XML and TEI
 
 Part 3: Spatial DH
@@ -203,13 +202,12 @@ Part 3: Spatial DH
 
     -   Bodenhamer, David, “Beyond GIS: Geospatial Technologies and the
         Future of History.” p. 1-13. History and GIS: Epistomologies,
-        Considerations and Reflections. Springer, 2013. (Free PDF online
-        through Yale.)
+        Considerations and Reflections. Springer, 2013. (To be provided.)
 
-    -   White, Richard. “What is spatial history?” February 1, 2010
+    -   [White, Richard. “What is spatial history?” February 1, 2010](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29)
 
-    -   Shnayder, Evgenia. “A Data Model for Spatial History.” November
-        15, 2010.
+    -   [Shnayder, Evgenia. “A Data Model for Spatial History.” November
+        15, 2010.](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=23)
 
 -   2016-10-13: Practicum: CartoDB Part I
 
@@ -220,7 +218,7 @@ Part 3: Spatial DH
 -   2016-10-25: Practicum: CartoDB Part II
 
     -   Crampton, Jeremy. Mapping: A Critical Introduction to
-        Cartography and GIS. (Wiley-Blackwell, 2010)
+        Cartography and GIS. Wiley-Blackwell, 2010. (To be provided.)
 
 -   2016-10-27: Discuss collection of NEH Grants & project proposals
 
