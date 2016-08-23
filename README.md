@@ -99,18 +99,18 @@ behind the University of Richmond firewall).
 
 -   2016-08-25: The big tent of DH
 
-    -   Hockey, Susan. “The History of Humanities Computing.” In
+    -   [Hockey, Susan. “The History of Humanities Computing.” In
         Companion to Digital Humanities, edited by Susan Schreibman, Ray
-        Siemens, and John Unsworth. Oxford: Blackwell, 2004.
+        Siemens, and John Unsworth. Oxford: Blackwell, 2004.](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-1)
 
-    -   Seefeldt, Douglas and William Thomas. “What is Digital History?”
-        Perspectives on History. May 2009.
+    -   [Seefeldt, Douglas and William Thomas. “What is Digital History?”
+        Perspectives on History. May 2009.] (https://www.historians.org/publications-and-directories/perspectives-on-history/may-2009/intersections-history-and-new-media/what-is-digital-history)
 
-    -   Fitzpatrick, Kathleen. “The Humanities, Done Digitally.” Debates
-        in the Digital Humanities. 2012.
+    -   [Fitzpatrick, Kathleen. “The Humanities, Done Digitally.” Debates
+        in the Digital Humanities. 2012.](http://dhdebates.gc.cuny.edu/debates/text/30)
 
-    -   Berry, David. “The Computational Turn: Thinking About the
-        Digital Humanities.” Culture Machine Vol 12, 2011.
+    -   [Berry, David. “The Computational Turn: Thinking About the
+        Digital Humanities.” Culture Machine Vol 12, 2011.] (http://www.culturemachine.net/index.php/cm/article/viewarticle/440)
 
 -   2016-08-30: Humanities ‘data’
 
