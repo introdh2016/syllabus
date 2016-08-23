@@ -1,7 +1,7 @@
 # syllabus
 
 <span>**CLSC 398/ IDSD 299/ RHCS 279: Introduction to Digital
-Humanities**</span>\
+Humanities**</span>
 Fall 2016 Tuesday, Thursday 10:30 - 11:45 Learn Lab
 
   ------------------------------ ----------------------------------------------------
@@ -12,7 +12,7 @@ Fall 2016 Tuesday, Thursday 10:30 - 11:45 Learn Lab
   Website:                       TBD
   ------------------------------ ----------------------------------------------------
 
-<span>**Course Description:**</span>\
+<span>**Course Description:**</span>
 Digital Humanities or “DH” brings the application of computing to
 humanities questions. In this course, we will explore applying
 computational methods including text analysis, mapping, and network
@@ -41,7 +41,7 @@ where we will apply methods. By the end of the course, we will:
 
 -   Learn how to work collaboratively in the humanities
 
-The course will culminate in a final project.\
+The course will culminate in a final project.
 *No prior programming experience expected or required.*
 
 <span>**Grading:**</span>
@@ -52,12 +52,12 @@ The course will culminate in a final project.\
 
 -   50% Final Project
 
-<span>**Late Work:**</span>\
+<span>**Late Work:**</span>
 Turning in late work reflects poorly on you. Please avoid it at all
 costs. Any late work receives a letter grade deduction for each class
 period it is late.
 
-<span>**Academic Integrity:**</span>\
+<span>**Academic Integrity:**</span>
 Students are expected to pledge the following statement on all
 assignments turned in for credit, including exams, papers and laboratory
 reports: "I pledge that I have neither received nor given unauthorized
@@ -74,7 +74,7 @@ information on URʼs commitment to building intellectual integrity,
 visit:
 http://studentdevelopment.richmond.edu/student-handbook/honor/the-honor-code.html
 
-<span>**Attendance:**</span>\
+<span>**Attendance:**</span>
 Students are responsible for all information in the class, regardless of
 their personal attendance. If a student is absent, it is their
 responsibility to inquire about what they have missed. Absences due to
@@ -86,13 +86,13 @@ documented illness, emergency, or university business, will result in a
 loss of participation points. More than 5 absences may result in an “F”
 for the semester.
 
-<span>**Readings:**</span>\
+<span>**Readings:**</span>
 Most of the readings in this course consist of journal articles, blog
 posts, and chapters from edited volumes. These will all be available
 digitally, for free, from the course website (some may require you to be
 behind the University of Richmond firewall).
 
-<span>**Schedule:**</span>\
+<span>**Schedule:**</span>
 *Part 1: What is Digital Humanities?*
 
 -   2016-08-23: Practicum: Explore DH projects
