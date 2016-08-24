@@ -208,8 +208,11 @@ Part 3: Spatial DH
 
     -   [Shnayder, Evgenia. “A Data Model for Spatial History.” November
         15, 2010.](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=23)
+        
+ -   In class: Explore [Photogrammar](http://dsl.richmond.edu/dispatch/) 
+    and [American Panorama] (http://dsl.richmond.edu/panorama/)
 
--   2016-10-13: Practicum: CartoDB Part I
+-   2016-10-13: Practicum: CartoDB with Justin Madron
 
 -   2016-10-18: Fall Study Break
 
@@ -226,34 +229,33 @@ Part 4: Network Analysis
 
 -   2016-11-01: Social networks
 
-    -   Newman, Mark. Networks: An Introduction. Chapter 1: Introduction
-        and Chapter 3: Social Networks. Weingart, Scott. “Demystifying
-        Networks, Part I & II.” Journal of Digital Humanities. Vol 1 No.
-        1. Winter 2011.
+    -   Newman, Mark. Networks: An Introduction. [Chapter 1: Introduction](http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199206650.001.0001/acprof-9780199206650-chapter-1) and Chapter 3: Social Networks (To be provided). 
+        
+    -   [Weingart, Scott. “Demystifying Networks, Part I & II.” Journal of Digital Humanities. Vol 1 No. 1. Winter 2011.] (http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart)
 
 -   2016-11-03: Practicum: Gephi Part I
 
 -   2016-11-08: Integrating data sources
 
-    -   Weingart, Scott. “Topic Modeling and Network Analysis.”
+    -   [Weingart, Scott. “Topic Modeling and Network Analysis.”](http://www.scottbot.net/HIAL/index.html@p=221.html)
 
-    -   Weingart, Scott. “Contextualizing networks with maps.”
+    -   [Weingart, Scott. “Contextualizing networks with maps.”](http://www.scottbot.net/HIAL/index.html@p=1942.html)
 
 -   2016-11-10: Practicum: Gephi Part II
 
 Part 5: \#transformDH
 
 -   2016-11-15: The role of code
+ 
+    -   [Ford, Paul. “What is Code”. Bloomberg BusinessWeek. June
+        11, 2015.](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
-    -   Tveten, Juliane. “Code Is Political.” Vice Motherboard. March
-        1, 2016.
-
-    -   Ford, Paul. “What is Code”. Bloomberg BusinessWeek. June
-        11, 2015.
+    -   [Tveten, Juliane. “Code Is Political.” Vice Motherboard. March
+        1, 2016.](http://motherboard.vice.com/read/code-is-political)
 
     -   Arnold, Taylor and Lauren Tilton. “New Data: The Role of
         Statistics in DH”. Debates in the Digital Humanities, 2017.
-        Pre-Print.
+        Pre-Print. (To be provided.)
 
 -   2016-11-17: Coding
 
@@ -261,22 +263,22 @@ Part 5: \#transformDH
 
 -   2016-11-22: Critical techniques
 
-    -   McPherson, Tara. “Why Are the Digital Humanities So White? Or
+    -   [McPherson, Tara. “Why Are the Digital Humanities So White? Or
         Thinking the Histories of Race and Computation.” Debates in the
-        Digital Humanities. 2012.
+        Digital Humanities. 2012.](http://dhdebates.gc.cuny.edu/debates/part/4)
 
-    -   Bailey, Moya, Anne Cong-Huyen, Alexis Lothian, and Amanda
+    -   [Bailey, Moya, Anne Cong-Huyen, Alexis Lothian, and Amanda
         Phillips.“Reflections on a Movement: transformDH, Growing Up.”
-        Debates in the Digital Humanities. 2016.
+        Debates in the Digital Humanities. 2016.](http://dhdebates.gc.cuny.edu/debates/text/59)
 
-    -   Posner, Miriam. “What’s Next: The Radical, Unrealized Potential
-        of Digital Humanities.” Debates in the Digital Humanities. 2016.
+    -   [Posner, Miriam. “What’s Next: The Radical, Unrealized Potential
+        of Digital Humanities.” Debates in the Digital Humanities. 2016.](http://dhdebates.gc.cuny.edu/debates/text/54)
 
-    -   Lui, Allen. “The Meaning of the Digital Humanities.” PMLA. 128
-        (2013): 409-23.
+    -   [Lui, Allen. “The Meaning of the Digital Humanities.” PMLA. 128
+        (2013): 409-23.](http://escholarship.org/uc/item/5gc857tw#page-6)
 
     -   The Digital in the Humanities series - Selected Pieces. LA
-        Review of Books. 2016
+        Review of Books. 2016. (To be announced.)
 
 -   2016-11-24: Thanksgiving Break
 
