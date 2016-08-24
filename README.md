@@ -249,7 +249,7 @@ Part 4: Network Analysis
 Part 5: \#transformDH
 
 -   2016-11-15: The role of code
-    - Spatial Analysis Response Due
+    - Network Analysis Response Due
   
     -   [Ford, Paul. “What is Code”. Bloomberg BusinessWeek. June
         11, 2015.](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
