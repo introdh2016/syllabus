@@ -277,8 +277,8 @@ Part 5: \#transformDH
     -   [Lui, Allen. “The Meaning of the Digital Humanities.” PMLA. 128
         (2013): 409-23.](http://escholarship.org/uc/item/5gc857tw#page-6)
 
-    -   The Digital in the Humanities series - Selected Pieces. LA
-        Review of Books. 2016. (To be announced.)
+    -   [The Digital in the Humanities series - Selected Pieces. LA
+        Review of Books. 2016.](https://lareviewofbooks.org/feature/the-digital-in-the-humanities/) (To be announced.)
 
 -   2016-11-24: Thanksgiving Break
 
