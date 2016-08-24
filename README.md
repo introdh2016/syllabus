@@ -1,4 +1,4 @@
-# syllabus
+# Syllabus
 
 <span>**CLSC 398/ IDSD 299/ RHCS 279: Introduction to Digital
 Humanities**</span>
