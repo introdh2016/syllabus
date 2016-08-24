@@ -158,8 +158,6 @@ Part 2: Text Analysis
         Contribution to Topic Modeling.” Journal of Digital Humanities.
         Vol 2. No. 1 Winter 2012.] (http://journalofdigitalhumanities.org/2-1/dh-contribution-to-topic-modeling/)
 
-
-
     -   [Goldstone, Andrew and Ted Underwood. “What Can Topic Models of
         PMLA Teach Us About the History of Literary Scholarship?”
         Journal of Digital Humanities. Vol 2. No. 1 Winter 2012.] (http://journalofdigitalhumanities.org/2-1/what-can-topic-models-of-pmla-teach-us-by-ted-underwood-and-andrew-goldstone/)
@@ -188,10 +186,14 @@ Part 2: Text Analysis
 -   2016-09-29: Practicum: Using Mallet II - Modeling with JStor Data
 
 -   2016-10-04: Text Mark-Up
+    -  Text Analysis Response Due  
+    
     - [Renear, Allen. "Text Encoding". A Companion to Digital Humanities. Edited by Susan Schreibman, Ray
         Siemens, and John Unsworth. Oxford: Blackwell, 2004.] (http://digitalhumanities.org:3030/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-5&toc.depth=1&toc.id=ss1-3-5&brand=9781405103213_brand)   
 
     - ["What is TEI?"] (http://cdrh.unl.edu/articles/basicguide/TEI)
+    
+    - [Jockers, Matthew and Julia Flander. "A Matter of Scale."](http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1106&context=englishfacpubs)
 
 
 -   2016-10-06: XML and TEI
@@ -226,6 +228,7 @@ Part 3: Spatial DH
 -   2016-10-27: Discuss collection of NEH Grants & project proposals
 
 Part 4: Network Analysis
+- Spatial Analysis Response Due
 
 -   2016-11-01: Social networks
 
@@ -246,7 +249,8 @@ Part 4: Network Analysis
 Part 5: \#transformDH
 
 -   2016-11-15: The role of code
- 
+    - Spatial Analysis Response Due
+  
     -   [Ford, Paul. “What is Code”. Bloomberg BusinessWeek. June
         11, 2015.](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 
