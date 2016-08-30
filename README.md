@@ -121,7 +121,7 @@ behind the University of Richmond firewall).
 
     -   [Posner, Miriam. “Humanities Data: A Necessary Contradiction”](http://miriamposner.com/blog/humanities-data-a-necessary-contradiction/)
 
--   2016-09-01: Practicum: Google Refine
+-   2016-09-01: Practicum: Introduction to the command line and GitHub
 
 -   2016-09-06: Methods for computational analysis
 
@@ -131,7 +131,7 @@ behind the University of Richmond firewall).
     -   [Schöch, Christof. “Big? Smart? Clean? Messy? Data in
         the Humanities.” Journal of Digital Humanities. Summer 2013.](http://journalofdigitalhumanities.org/2-3/big-smart-clean-messy-data-in-the-humanities/)
 
--   2016-09-08: Practicum: Introduction to the command line and GitHub
+-   2016-09-08: Practicum: Google Refine 
 
 Part 2: Text Analysis
 
