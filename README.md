@@ -200,8 +200,9 @@ Part 2: Text Analysis
 
 Part 3: Spatial DH
 
--   2016-10-11: Spatial history
+-   2016-10-11: Fall Study Break 
 
+-   2016-10-13: Spatial history
     -   Bodenhamer, David, “Beyond GIS: Geospatial Technologies and the
         Future of History.” p. 1-13. History and GIS: Epistomologies,
         Considerations and Reflections. Springer, 2013. (To be provided.)
@@ -214,9 +215,7 @@ Part 3: Spatial DH
  -   In class: Explore [Photogrammar](http://dsl.richmond.edu/dispatch/) 
     and [American Panorama] (http://dsl.richmond.edu/panorama/)
 
--   2016-10-13: Practicum: CartoDB with Justin Madron
-
--   2016-10-18: Fall Study Break
+-   2016-10-18: Practicum: CartoDB with Justin Madron 
 
 -   2016-10-20: No Class
 
