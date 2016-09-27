@@ -158,10 +158,7 @@ Part 2: Text Analysis
         Contribution to Topic Modeling.” Journal of Digital Humanities.
         Vol 2. No. 1 Winter 2012.] (http://journalofdigitalhumanities.org/2-1/dh-contribution-to-topic-modeling/)
 
-    -   [Goldstone, Andrew and Ted Underwood. “What Can Topic Models of
-        PMLA Teach Us About the History of Literary Scholarship?”
-        Journal of Digital Humanities. Vol 2. No. 1 Winter 2012.] (http://journalofdigitalhumanities.org/2-1/what-can-topic-models-of-pmla-teach-us-by-ted-underwood-and-andrew-goldstone/)
-        
+
     -   In class: Explore [Mining The Dispatch.](http://dsl.richmond.edu/dispatch/) 
     and [Signs at 40] (http://signsat40.signsjournal.org/)
 
@@ -171,10 +168,11 @@ Part 2: Text Analysis
 
     -   [Rhody, Lisa M. “Topic Modeling and Figurative Language.” Journal
         of Digital Humanities. Vol 2. No. 1 Winter 2012.](http://journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody/)
-
-    -   [Schmidt, Benjamin. “Words Alone: Dismantling Topic Models in
-        the Humanities.” Journal of Digital Humanities. Vol 2. No. 1
-        Winter 2012.](http://journalofdigitalhumanities.org/2-1/words-alone-by-benjamin-m-schmidt/)
+        
+  -   [Goldstone, Andrew and Ted Underwood. “What Can Topic Models of
+        PMLA Teach Us About the History of Literary Scholarship?”
+        Journal of Digital Humanities. Vol 2. No. 1 Winter 2012.] (http://journalofdigitalhumanities.org/2-1/what-can-topic-models-of-pmla-teach-us-by-ted-underwood-and-andrew-goldstone/)
+        
         
     -  [Robinson, David. "Text analysis of Trump's tweets confirms he writes only the (angrier) Android half". 
         Variance Explained.(Blog).](http://varianceexplained.org/r/trump-tweets/)
@@ -186,7 +184,7 @@ Part 2: Text Analysis
 -   2016-09-29: Practicum: Using Mallet II - Modeling with JStor Data
 
 -   2016-10-04: Text Mark-Up
-    -  Text Analysis Response Due  
+
     
     - [Renear, Allen. "Text Encoding". A Companion to Digital Humanities. Edited by Susan Schreibman, Ray
         Siemens, and John Unsworth. Oxford: Blackwell, 2004.] (http://digitalhumanities.org:3030/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-5&toc.depth=1&toc.id=ss1-3-5&brand=9781405103213_brand)   
@@ -194,9 +192,10 @@ Part 2: Text Analysis
     - ["What is TEI?"] (http://cdrh.unl.edu/articles/basicguide/TEI)
     
     - [Jockers, Matthew and Julia Flander. "A Matter of Scale."](http://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1106&context=englishfacpubs)
+    - XML and TEI mini-lab
 
 
--   2016-10-06: XML and TEI
+-   2016-10-06: Text Analysis Response Due  
 
 Part 3: Spatial DH
 
