@@ -166,8 +166,6 @@ Part 2: Text Analysis
 
 -   2016-09-27: Topic modeling II
 
-    -   [Rhody, Lisa M. “Topic Modeling and Figurative Language.” Journal
-        of Digital Humanities. Vol 2. No. 1 Winter 2012.](http://journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody/)
         
   -   [Goldstone, Andrew and Ted Underwood. “What Can Topic Models of
         PMLA Teach Us About the History of Literary Scholarship?”
@@ -183,9 +181,13 @@ Part 2: Text Analysis
 
 -   2016-09-29: Practicum: Using Mallet II - Modeling with JStor Data
 
--   2016-10-04: Text Mark-Up
+-   2016-10-04: Topic Modeling
 
-    
+
+    -   [Rhody, Lisa M. “Topic Modeling and Figurative Language.” Journal
+        of Digital Humanities. Vol 2. No. 1 Winter 2012.](http://journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody/)
+
+ - As discussed in class, we will be focusing on Rhody's piece and topic modeling.  We will no longer be doing this section on Text Mark-Up. If you are interested in more about Text Mark-up, check out the following!  
     - [Renear, Allen. "Text Encoding". A Companion to Digital Humanities. Edited by Susan Schreibman, Ray
         Siemens, and John Unsworth. Oxford: Blackwell, 2004.] (http://digitalhumanities.org:3030/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-3-5&toc.depth=1&toc.id=ss1-3-5&brand=9781405103213_brand)   
 
