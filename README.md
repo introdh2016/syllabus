@@ -204,9 +204,9 @@ Part 3: Spatial DH
 -   2016-10-11: Fall Study Break 
 
 -   2016-10-13: Spatial history
-    -   Bodenhamer, David, “Beyond GIS: Geospatial Technologies and the
-        Future of History.” p. 1-13. History and GIS: Epistomologies,
-        Considerations and Reflections. Springer, 2013. (To be provided.)
+    -   Bodenhamer, David, [“Beyond GIS: Geospatial Technologies and the
+        Future of History.”](https://github.com/introdh2016/other/blob/master/BeyondGIS.pdf) p. 1-13. History and GIS: Epistomologies,
+        Considerations and Reflections. Springer, 2013.  
 
     -   [White, Richard. “What is spatial history?” February 1, 2010](https://web.stanford.edu/group/spatialhistory/cgi-bin/site/pub.php?id=29)
 
