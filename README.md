@@ -216,7 +216,9 @@ Part 3: Spatial DH
  -   In class: Explore [Photogrammar](http://dsl.richmond.edu/dispatch/) 
     and [American Panorama] (http://dsl.richmond.edu/panorama/)
 
--   2016-10-18: Hillier, Amy. "Redlining in Philadelphia." Past Time, Past Place: GIS for History. ESRI Press, 2002. and Practicum: CartoDB with Justin Madron 
+-   2016-10-18:  Redlining 
+     - [Hillier, Amy. "Redlining in Philadelphia." Past Time, Past Place: GIS for History. ESRI Press, 2002.](https://github.com/introdh2016/other/blob/master/redliningphilly.pdf)
+     - Practicum: CartoDB with Justin Madron 
 
 -   2016-10-20: No Class
 
