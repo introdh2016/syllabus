@@ -224,9 +224,12 @@ Part 3: Spatial DH
 
 -   2016-10-25: Practicum: CartoDB Part II
 
+
     -   Crampton, Jeremy. Mapping: A Critical Introduction to
         Cartography and GIS. Wiley-Blackwell, 2010. (To be provided.)
 
+    -  Due: Paragraph or two with initial ideas for the final grant project. Post to [Final Grant GitHub Repo](https://github.com/introdh2016/final_grant). 
+    
 -   2016-10-27: Discuss collection of NEH Grants & project proposals
 
 Part 4: Network Analysis
