@@ -216,9 +216,8 @@ Part 3: Spatial DH
  -   In class: Explore [Photogrammar](http://dsl.richmond.edu/dispatch/) 
     and [American Panorama] (http://dsl.richmond.edu/panorama/)
 
--   2016-10-18:  Redlining 
-     - [Hillier, Amy. "Redlining in Philadelphia." Past Time, Past Place: GIS for History. ESRI Press, 2002.](https://github.com/introdh2016/other/blob/master/redliningphilly.pdf)
-     - Practicum: CartoDB with Justin Madron 
+-   2016-10-18: Discuss collection of NEH Grants & project proposals
+
 
 -   2016-10-20: No Class
 
@@ -230,7 +229,10 @@ Part 3: Spatial DH
 
     -  Due: Paragraph or two with initial ideas for the final grant project. Post to [Final Grant GitHub Repo](https://github.com/introdh2016/final_grant). 
     
--   2016-10-27: Discuss collection of NEH Grants & project proposals
+-   2016-10-27:  Redlining 
+     - [Hillier, Amy. "Redlining in Philadelphia." Past Time, Past Place: GIS for History. ESRI Press, 2002.](https://github.com/introdh2016/other/blob/master/redliningphilly.pdf)
+     - Practicum: CartoDB with Justin Madron 
+
 
 Part 4: Network Analysis
 - Spatial Analysis Response Due
