@@ -217,25 +217,25 @@ Part 3: Spatial DH
     and [American Panorama] (http://dsl.richmond.edu/panorama/)
 
 -   2016-10-18: Discuss collection of NEH Grants & project proposals
-
+     - [Hillier, Amy. "Redlining in Philadelphia." Past Time, Past Place: GIS for History. ESRI Press, 2002.](https://github.com/introdh2016/other/blob/master/redliningphilly.pdf)
 
 -   2016-10-20: No Class
 
--   2016-10-25: Practicum: CartoDB Part II
+-   2016-10-25: Practicum: ArcGIS Part I
 
+    - Location: Spatial Analysis Lab (300 Weinstein International) 
+    
+    -   [Crampton, Jeremy. Mapping: A Critical Introduction to
+        Cartography and GIS. Wiley-Blackwell, 2010.](https://github.com/introdh2016/other)
 
-    -   Crampton, Jeremy. Mapping: A Critical Introduction to
-        Cartography and GIS. Wiley-Blackwell, 2010. (To be provided.)
+    
+-   2016-10-27:  Practicum: ArcGIS Part II
+
+     - Location: Spatial Analysis Lab (300 Weinstein International) 
 
     -  Due: Paragraph or two with initial ideas for the final grant project. Post to [Final Grant GitHub Repo](https://github.com/introdh2016/final_grant). 
-    
--   2016-10-27:  Redlining 
-     - [Hillier, Amy. "Redlining in Philadelphia." Past Time, Past Place: GIS for History. ESRI Press, 2002.](https://github.com/introdh2016/other/blob/master/redliningphilly.pdf)
-     - Practicum: CartoDB with Justin Madron 
-
 
 Part 4: Network Analysis
-- Spatial Analysis Response Due
 
 -   2016-11-01: Social networks
 
@@ -253,10 +253,13 @@ Part 4: Network Analysis
 
 -   2016-11-10: Practicum: Gephi Part II
 
+      -   Spatial Analysis Response Due
+
+
 Part 5: \#transformDH
 
 -   2016-11-15: The role of code
-    - Network Analysis Response Due
+
   
     -   [Ford, Paul. “What is Code”. Bloomberg BusinessWeek. June
         11, 2015.](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
@@ -274,6 +277,8 @@ Part 5: \#transformDH
 
 -   2016-11-22: Critical techniques
 
+    - Network Analysis Response Due
+
     -   [McPherson, Tara. “Why Are the Digital Humanities So White? Or
         Thinking the Histories of Race and Computation.” Debates in the
         Digital Humanities. 2012.](http://dhdebates.gc.cuny.edu/debates/part/4)
@@ -290,6 +295,10 @@ Part 5: \#transformDH
 
     -   [The Digital in the Humanities series - Selected Pieces. LA
         Review of Books. 2016.](https://lareviewofbooks.org/feature/the-digital-in-the-humanities/) (To be announced.)
+        
+        
+        
+        
 
 -   2016-11-24: Thanksgiving Break
 
