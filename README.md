@@ -233,7 +233,7 @@ Part 3: Spatial DH
 
      - Location: Spatial Analysis Lab (300 Weinstein International) 
 
-    -  Due: Paragraph or two with initial ideas for the final grant project. Post to [Final Grant GitHub Repo](https://github.com/introdh2016/final_grant). 
+    -  Due: Paragraph or two in markdown with initial ideas for the final grant project. Post to your branch on the [Final Grant GitHub Repo](https://github.com/introdh2016/final_grant). 
 
 Part 4: Network Analysis
 
