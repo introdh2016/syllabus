@@ -240,20 +240,23 @@ Part 4: Network Analysis
 -   2016-11-01: Social networks
 
     -   Newman, Mark. Networks: An Introduction. [Chapter 1: Introduction](http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199206650.001.0001/acprof-9780199206650-chapter-1) and Chapter 3: Social Networks (To be provided). 
-        
+    
+    - Explore [Linked Jazz](https://linkedjazz.org/)  and [Signs at 40](http://signsat40.signsjournal.org/cocitation/)
+    
     -   [Weingart, Scott. “Demystifying Networks, Part I & II.” Journal of Digital Humanities. Vol 1 No. 1. Winter 2011.] (http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart)
 
 -   2016-11-03: Practicum: Gephi Part I
 
--   2016-11-08: Integrating data sources
+-   2016-11-08: Practicum: Gephi Part II 
+
+
+-   2016-11-10: Layering Networks
+
+      -   Spatial Analysis Response Due
 
     -   [Weingart, Scott. “Topic Modeling and Network Analysis.”](http://www.scottbot.net/HIAL/index.html@p=221.html)
 
     -   [Weingart, Scott. “Contextualizing networks with maps.”](http://www.scottbot.net/HIAL/index.html@p=1942.html)
-
--   2016-11-10: Practicum: Gephi Part II
-
-      -   Spatial Analysis Response Due
 
 
 Part 5: \#transformDH
