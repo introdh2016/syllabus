@@ -241,7 +241,7 @@ Part 4: Network Analysis
 
     -   Newman, Mark. Networks: An Introduction. [Chapter 1: Introduction](http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199206650.001.0001/acprof-9780199206650-chapter-1)
     
-    - Explore [Linked Jazz](https://linkedjazz.org/)  and [Signs at 40](http://signsat40.signsjournal.org/cocitation/)
+    - Explore [Linked Jazz](https://linkedjazz.org/)  and [Signs at 40](http://signsat40.signsjournal.org/cocitation/). We will discuss in class. We will also look at [Wikipedia](xefer.com/WIKIPEDIA)
     
     -   [Weingart, Scott. “Demystifying Networks, Part I & II.” Journal of Digital Humanities. Vol 1 No. 1. Winter 2011.] (http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart)
 
