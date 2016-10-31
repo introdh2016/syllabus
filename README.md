@@ -239,7 +239,7 @@ Part 4: Network Analysis
 
 -   2016-11-01: Social networks
 
-    -   Newman, Mark. Networks: An Introduction. [Chapter 1: Introduction](http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199206650.001.0001/acprof-9780199206650-chapter-1) and Chapter 3: Social Networks (To be provided). 
+    -   Newman, Mark. Networks: An Introduction. [Chapter 1: Introduction](http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780199206650.001.0001/acprof-9780199206650-chapter-1)
     
     - Explore [Linked Jazz](https://linkedjazz.org/)  and [Signs at 40](http://signsat40.signsjournal.org/cocitation/)
     
