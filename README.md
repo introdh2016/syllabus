@@ -1,15 +1,16 @@
 # Syllabus
 
 <span>**CLSC 398/ IDSD 299/ RHCS 279: Introduction to Digital
-Humanities**</span>
-Fall 2016 Tuesday, Thursday 10:30 - 11:45 Learn Lab
+Humanities**</span> | 
+
+Fall 2016 | Tuesday, Thursday 10:30 - 11:45 |  Learn Lab
 
   ------------------------------ ----------------------------------------------------
   <span>**Instructor:**</span>   <span>**Dr. Lauren Tilton**</span>
-  E-mail:                        [ltilton@richmond.edu](mailto:lilton@richmond.edu)
-  Office:                        184 Boatwright Memorial Library
-  Office Hours:                  Thursday 11:45-1:00
-  Website:                       TBD
+  
+[ltilton@richmond.edu](mailto:lilton@richmond.edu) | 
+184 Boatwright Memorial Library | 
+ Thursday 11:45-1:00 
   ------------------------------ ----------------------------------------------------
 
 <span>**Course Description:**</span>
