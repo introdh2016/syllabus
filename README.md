@@ -283,6 +283,12 @@ Part 5: \#transformDH
 
     - Network Analysis Response Due
 
+ 
+       
+-   2016-11-24: Thanksgiving Break
+
+-   2016-11-29: Critical DH
+
     -   [McPherson, Tara. “Why Are the Digital Humanities So White? Or
         Thinking the Histories of Race and Computation.” Debates in the
         Digital Humanities. 2012.](http://dhdebates.gc.cuny.edu/debates/part/4)
@@ -291,22 +297,10 @@ Part 5: \#transformDH
         Phillips.“Reflections on a Movement: transformDH, Growing Up.”
         Debates in the Digital Humanities. 2016.](http://dhdebates.gc.cuny.edu/debates/text/59)
 
-    -   [Posner, Miriam. “What’s Next: The Radical, Unrealized Potential
-        of Digital Humanities.” Debates in the Digital Humanities. 2016.](http://dhdebates.gc.cuny.edu/debates/text/54)
-
-    -   [Lui, Allen. “The Meaning of the Digital Humanities.” PMLA. 128
-        (2013): 409-23.](http://escholarship.org/uc/item/5gc857tw#page-6)
-
     -   [The Digital in the Humanities series - Selected Pieces. LA
-        Review of Books. 2016.](https://lareviewofbooks.org/feature/the-digital-in-the-humanities/) (To be announced.)
+        Review of Books. 2016.](thttps://lareviewofbooks.org/feature/the-digital-in-the-humanities/)  Read the interviews with: Bethany Nowviskie, Franco Moretti and Jessica Marie Johnson.  Come prepared to discuss their different understandings and definitions of of DH. 
         
-        
-        
-        
-
--   2016-11-24: Thanksgiving Break
-
--   2016-11-29: Project presentations
+       
 
 -   2016-12-01: Project presentations
 
