@@ -298,7 +298,7 @@ Part 5: \#transformDH
         Debates in the Digital Humanities. 2016.](http://dhdebates.gc.cuny.edu/debates/text/59)
 
     -   [The Digital in the Humanities series - Selected Pieces. LA
-        Review of Books. 2016.](thttps://lareviewofbooks.org/feature/the-digital-in-the-humanities/)  Read the interviews with: Bethany Nowviskie, Franco Moretti and Jessica Marie Johnson.  Come prepared to discuss their different understandings and definitions of of DH. 
+        Review of Books. 2016.](https://lareviewofbooks.org/feature/the-digital-in-the-humanities/)  Read the interviews with: Bethany Nowviskie, Franco Moretti and Jessica Marie Johnson.  Come prepared to discuss their different understandings and definitions of of DH. 
         
        
 
